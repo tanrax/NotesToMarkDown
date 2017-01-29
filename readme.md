@@ -16,3 +16,4 @@ Compatible with any account. You only need to know what the SMTP address of your
 ``` bash
 python3 notes.py --imap imap.gmail.com --user my@gmail.com --password 123456
 ```
+The final result will be in a new folder called *notes* in the same directory as the script.
